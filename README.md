@@ -1,6 +1,10 @@
+#moco
+
 Please use version inside folder "03-18-2016_release".
 
+
 Instructions:
+-------------
 
 1. Place all files inside the "jars" folder inside the following directory: 
 
@@ -22,7 +26,12 @@ and choose 10092015_release>moco_.jar.
 
 
 ---------------------------------
-Directions: You must have open the stack and the template image that you want to align the stack with (i.e. the first image in the stack, or the average image of all frames in the stack).
+
+
+Directions: 
+------------
+
+You must have open the stack and the template image that you want to align the stack with (i.e. the first image in the stack, or the average image of all frames in the stack).
 
 
 
