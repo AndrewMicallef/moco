@@ -412,7 +412,7 @@ def moco(stack, template, max_trans = 0, ds_factor = 0):
 	}
 
 	def computeT(tVals):
-		''''''
+		'''appears to return a list of translation vectors'''
 	
 	public static List<double[][]> computeT(double[][] tVals, int cols, int rows)
 	{
